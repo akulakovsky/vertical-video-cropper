@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Vertical Video Cropper</string>
+    <string name="open_project_text_text">Open project...</string>
+    <string name="project_open_button_text">Select</string>
+    <string name="create_project_text_text">Create project...</string>
+    <string name="project_create_button_text">Create</string>
+    <string name="single_clip_text_text">Edit a single clip...</string>
+    <string name="single_clip_button_text">Edit</string>
+    <string name="NewProjectActivity_name">New Project Activity</string>
+    <string-array name="aspect_ratio_values">
+        <item>1:1 (square)</item>
+        <item>4:5</item>
+        <item>2:3</item>
+        <item>9:16</item>
+    </string-array>
+
+    <string-array name="resolution_values">
+        <item>1080x1920</item>
+        <item>720x1280</item>
+        <item>1920x1920</item>
+        <item>1280x1280</item>
+        <item>1536x1920</item>
+        <item>1024x1280</item>
+    </string-array>
+</resources>
